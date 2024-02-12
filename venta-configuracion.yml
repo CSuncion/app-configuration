@@ -1,1 +1,1 @@
-dbVenta-cnx: DESKTOP-VQ0I0E0\\SQLEXPRESS-1; database=dbVenta; integrated security=true;TrustServerCertificate=True;
+dbVenta-cnx: DESKTOP-VQ0I0E0\\SQLEXPRESS; database=dbVenta; integrated security=true;TrustServerCertificate=True;
