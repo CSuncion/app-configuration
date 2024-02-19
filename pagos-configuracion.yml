@@ -1,0 +1,1 @@
+dbPagos-cnx: Server=DESKTOP-VQ0I0E0\SQLEXPRESS;Initial Catalog=dbPagos;Persist Security Info=False;User ID=sa;.;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
